@@ -13,7 +13,7 @@
     "react-dom": "16.0.0"
   },
   "devDependencies": {
-    "rollup": "~0.51.1",
+    "rollup": "~0.51.6",
     "rollup-plugin-commonjs": "~8.2.6",
     "rollup-plugin-node-resolve": "~3.0.0"
   }
