@@ -1,4 +1,3 @@
-var React = require('react');
-var ReactDOM = require('react-dom');
+const isURL = require('validator/lib/isURL');
 
-ReactDOM.render(React.createElement('div'), document.getElementById('root'));
+isURL('xxx');

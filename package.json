@@ -9,11 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "react": "16.0.0",
-    "react-dom": "16.0.0"
+    "validator": "^9.1.1"
   },
   "devDependencies": {
-    "rollup": "~0.51.6",
+    "rollup": "~0.51.7",
     "rollup-plugin-commonjs": "~8.2.6",
     "rollup-plugin-node-resolve": "~3.0.0"
   }
